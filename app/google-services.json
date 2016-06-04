@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "551781184969",
+    "firebase_url": "https://project-2883105559096884547.firebaseio.com",
+    "project_id": "project-2883105559096884547",
+    "storage_bucket": "project-2883105559096884547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551781184969:android:67abb0c7829ad884",
+        "android_client_info": {
+          "package_name": "com.carrero.josmary.casptone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551781184969-4crkqi4n898fc5t0547v4oglukkfasqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPidiWjfZmApGVShh3jlDuiydV0nABQCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Before I die </string>
+    <string name="content_authority">com.carrero.josmary.capstone</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- about dialog -->
+    <string name="app_descrip">A journal for keeping track of your "before I die " wishes </string>
+
+    <!-- menu options -->
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete Event</string>
+    <string name="action_edit">Edit Event</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="title_activity_detail">Event Details</string>
+
+    <string name="empty_event_list">No events found!</string>
+
+
+    <!-- Language-specific constants -->
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
+    <!-- Date format [CHAR LIMIT=NONE] -->
+    <string name="format_full_friendly_date"><xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g></string>
+
+    <!-- Add Event -->
+    <string name="title_activity_add_event">Add Event</string>
+    <string name="name_hint">What is the event??</string>
+    <string name="notes_hint">Say more!</string>
+    <string name="title_activity_attach_images">Attach Images</string>
+
+    <!-- Add Images -->
+    <string name="msg_failed_to_get_picture">Failed to get image</string>
+    <string name="lbl_pick_single_image">Select single image</string>
+    <string name="lbl_pick_multiple_image">Select multiple images</string>
+    <string name="txt_info">Quick sample for selecting images on Android</string>
+    <string name="msg_failed_to_get_intent_data">Failed to get intent data</string>
+    <string name="select_picture">Select Picture</string>
+
+    <!-- AdMob for test -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
